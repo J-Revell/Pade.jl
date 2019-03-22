@@ -158,3 +158,9 @@ deps = ["Compat"]
 git-tree-sha1 = "c9d5aa108588b978bd859554660c8a5c4f2f7669"
 uuid = "81def892-9a0e-5fdd-b105-ffc91e053289"
 version = "1.1.3"
+
+[[Wynn]]
+deps = ["SymPy", "Test"]
+git-tree-sha1 = "525e84d9b5ae091cbf9ab3d1fcc9d0d05b16db94"
+uuid = "fbb19de7-1342-5f93-8193-71ff412e753d"
+version = "0.0.3"

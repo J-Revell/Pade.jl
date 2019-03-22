@@ -5,3 +5,4 @@ version = "0.1.0"
 
 [deps]
 SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
+Wynn = "fbb19de7-1342-5f93-8193-71ff412e753d"
